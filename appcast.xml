@@ -1,7 +1,26 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <item><title>Version v1.22.44</title><sparkle:releaseNotesLink>https://github.com/macscope/releases/releases/tag/v1.22.44</sparkle:releaseNotesLink><pubDate>Thu, 07 Aug 2025 21:08:17 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.22.44/Macscope.zip" sparkle:version="1.22.44" sparkle:shortVersionString="1.22.44" length="1788813" type="application/octet-stream" sparkle:edSignature="hYmI9Xx01qdg5RDfqA4NR2kBIzB82+A4JlnCEOcX4CW9t+hSWLmX5TpOvyJJpIPT4tjns3hEritsUMZpIPNBAA==" /></item><item><title>Version v1.22.43</title><sparkle:releaseNotesLink>https://github.com/macscope/releases/releases/tag/v1.22.43</sparkle:releaseNotesLink><pubDate>Thu, 07 Aug 2025 20:59:00 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.22.43/Macscope.zip" sparkle:version="1.22.43" sparkle:shortVersionString="1.22.43" length="1788802" type="application/octet-stream" sparkle:edSignature="ZCUJRb1wwhUOhKPJ77QbdGj6iNM4NhZMAi9SzbdgSpXO3q/EItCP46VeOWt7fYgnBHt172zHtyD+GLiOuxPaBw==" /></item><item><title>Version v1.22.42</title><sparkle:releaseNotesLink>https://github.com/macscope/releases/releases/tag/v1.22.42</sparkle:releaseNotesLink><pubDate>Thu, 07 Aug 2025 20:53:13 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.22.42/Macscope.zip" sparkle:version="1.22.42" sparkle:shortVersionString="1.22.42" length="1788793" type="application/octet-stream" sparkle:edSignature="OyfG9CrUKra4cNDFVV+xBgOegyw8/ddVV0sUK7bvkuv8D56k2ANOZdrtNhC+KiWy1B/b31NUTbqG8dTuXG2dCQ==" /></item><title>Macscope Changelog</title>
+    <item><title>Version v1.22.45</title><description><![CDATA[
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <style>
+            body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; padding: 0 1em; }
+            pre { font-family: inherit; white-space: pre-wrap; }
+        </style>
+    </head>
+    <body>
+        <pre>## [1.22.45](https://github.com/macscope/Macscope/compare/v1.22.44...v1.22.45) (2025-08-07)
+
+
+### Bug Fixes
+
+* ga ([15b94e9](https://github.com/macscope/Macscope/commit/15b94e9a2874ad476e9622815520bb79548f87a9))</pre>
+    </body>
+    </html>
+]]></description><pubDate>Thu, 07 Aug 2025 21:46:51 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.22.45/Macscope.zip" sparkle:version="1.22.45" sparkle:shortVersionString="1.22.45" length="1791645" type="application/octet-stream" sparkle:edSignature="OY0OeUt5lHdnCn0/PBjiD86dJrUVH2IO3HZ/iJV3UnxNPeMhBYedBxtElq2vfm9+DrnJKfGR3YkDUxrOzB4NCA==" /></item><item><title>Version v1.22.44</title><sparkle:releaseNotesLink>https://github.com/macscope/releases/releases/tag/v1.22.44</sparkle:releaseNotesLink><pubDate>Thu, 07 Aug 2025 21:08:17 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.22.44/Macscope.zip" sparkle:version="1.22.44" sparkle:shortVersionString="1.22.44" length="1788813" type="application/octet-stream" sparkle:edSignature="hYmI9Xx01qdg5RDfqA4NR2kBIzB82+A4JlnCEOcX4CW9t+hSWLmX5TpOvyJJpIPT4tjns3hEritsUMZpIPNBAA==" /></item><item><title>Version v1.22.43</title><sparkle:releaseNotesLink>https://github.com/macscope/releases/releases/tag/v1.22.43</sparkle:releaseNotesLink><pubDate>Thu, 07 Aug 2025 20:59:00 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.22.43/Macscope.zip" sparkle:version="1.22.43" sparkle:shortVersionString="1.22.43" length="1788802" type="application/octet-stream" sparkle:edSignature="ZCUJRb1wwhUOhKPJ77QbdGj6iNM4NhZMAi9SzbdgSpXO3q/EItCP46VeOWt7fYgnBHt172zHtyD+GLiOuxPaBw==" /></item><item><title>Version v1.22.42</title><sparkle:releaseNotesLink>https://github.com/macscope/releases/releases/tag/v1.22.42</sparkle:releaseNotesLink><pubDate>Thu, 07 Aug 2025 20:53:13 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.22.42/Macscope.zip" sparkle:version="1.22.42" sparkle:shortVersionString="1.22.42" length="1788793" type="application/octet-stream" sparkle:edSignature="OyfG9CrUKra4cNDFVV+xBgOegyw8/ddVV0sUK7bvkuv8D56k2ANOZdrtNhC+KiWy1B/b31NUTbqG8dTuXG2dCQ==" /></item><title>Macscope Changelog</title>
     <link>https://raw.githubusercontent.com/macscope/releases/main/appcast.xml</link>
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
