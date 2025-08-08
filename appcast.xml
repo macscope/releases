@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <item><title>Version v1.22.50</title><description><![CDATA[
+    <item><title>Version v1.22.51</title><description><![CDATA[
     <!DOCTYPE html>
     <html>
     <head>
@@ -12,15 +12,34 @@
         </style>
     </head>
     <body>
-        <pre>## [1.22.50](https://github.com/macscope/Macscope/compare/v1.22.49...v1.22.50) (2025-08-08)
+        <pre>## [1.22.51](https://github.com/macscope/Macscope/compare/v1.22.50...v1.22.51) (2025-08-08)
 
 
 ### Bug Fixes
 
-* ga ([9bec3a3](https://github.com/macscope/Macscope/commit/9bec3a321a4470912280a0ba01993a3c067ff629))</pre>
+* ga ([a682468](https://github.com/macscope/Macscope/commit/a682468574dae29381d47aea704554f2f0b09ca0))</pre>
     </body>
     </html>
-]]></description><pubDate>Fri, 08 Aug 2025 16:15:46 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.22.50/Macscope.zip" sparkle:version="1.22.50" sparkle:shortVersionString="1.22.50" length="1791348" type="application/octet-stream" sparkle:edSignature="Yvw2++WFhozSkNkc8lntpMhVdVIuXM9bT8ZzDKnGxIGnovpcrJ51MpP0UHFQqApuCyJy3kI/xv7rMMzA5QU5DA==" /></item><item><title>Version v1.22.49</title><description>
+]]></description><pubDate>Fri, 08 Aug 2025 16:23:16 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.22.51/Macscope.zip" sparkle:version="1.22.51" sparkle:shortVersionString="1.22.51" length="1791347" type="application/octet-stream" sparkle:edSignature="25JMaJBlIED0HV/5BwXpBqO6OrNOWUPklufZ22g/FQ2X7W4rLsjbhHqS14zWS+j1xySI9d32GyRZ2piI99xqCw==" /></item><item><title>Version v1.22.50</title><description>
+    &lt;!DOCTYPE html&gt;
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset="utf-8"&gt;
+        &lt;style&gt;
+            body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; padding: 0 1em; }
+            pre { font-family: inherit; white-space: pre-wrap; }
+        &lt;/style&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;pre&gt;## [1.22.50](https://github.com/macscope/Macscope/compare/v1.22.49...v1.22.50) (2025-08-08)
+
+
+### Bug Fixes
+
+* ga ([9bec3a3](https://github.com/macscope/Macscope/commit/9bec3a321a4470912280a0ba01993a3c067ff629))&lt;/pre&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;
+</description><pubDate>Fri, 08 Aug 2025 16:15:46 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.22.50/Macscope.zip" sparkle:version="1.22.50" sparkle:shortVersionString="1.22.50" length="1791348" type="application/octet-stream" sparkle:edSignature="Yvw2++WFhozSkNkc8lntpMhVdVIuXM9bT8ZzDKnGxIGnovpcrJ51MpP0UHFQqApuCyJy3kI/xv7rMMzA5QU5DA==" /></item><item><title>Version v1.22.49</title><description>
     &lt;!DOCTYPE html&gt;
     &lt;html&gt;
     &lt;head&gt;
