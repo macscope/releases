@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <item><title>Version v1.24.0</title><description><![CDATA[
+    <item><title>Version v1.25.0</title><description><![CDATA[
     <!DOCTYPE html>
     <html>
     <head>
@@ -16,15 +16,43 @@
     <body>
         <h3>Features</h3>
 <ul>
-    <li>add new settings ui</li>
+    <li>add mouse focus</li>
 </ul>
 <h3>Bug Fixes</h3>
 <ul>
-    <li>ga</li>
+    <li>focus in multi displays</li>
+    <li>search focus</li>
+    <li>search focus</li>
+    <li>selection ui</li>
+    <li>selection ui</li>
+    <li>video preview</li>
 </ul>
     </body>
     </html>
-]]></description><pubDate>Sun, 10 Aug 2025 10:45:24 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.24.0/Macscope.zip" sparkle:version="202508101043" sparkle:shortVersionString="1.24.0" length="1792523" type="application/octet-stream" sparkle:edSignature="fqmd/eoTO/sago8aEa1h6XegFj+tV0onJL4GLcKJgRejQUHB2uEX8t2xuLD3YeJ8panM1f3NkcTyggweTtDICA==" /></item><item><title>Version v1.23.0</title><description>
+]]></description><pubDate>Mon, 11 Aug 2025 07:26:11 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.25.0/Macscope.zip" sparkle:version="202508102226" sparkle:shortVersionString="1.25.0" length="1795684" type="application/octet-stream" sparkle:edSignature="E8N/+00nz5/hD6QvCUBR9k3KK8fhTB+anw6/2zMcorTFSgnpvc9V9Ol+uMDAt9I5+0xN4qHcUHexwPywc/wgDg==" /></item><item><title>Version v1.24.0</title><description>
+    &lt;!DOCTYPE html&gt;
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset="utf-8"&gt;
+        &lt;style&gt;
+            body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; padding: 0 1em; line-height: 1.4; }
+            h3 { margin-top: 1.5em; margin-bottom: 0.5em; }
+            ul { margin: 0; padding-left: 1.2em; }
+            li { margin-bottom: 0.4em; }
+        &lt;/style&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;add new settings ui&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;ga&lt;/li&gt;
+&lt;/ul&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;
+</description><pubDate>Sun, 10 Aug 2025 10:45:24 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.24.0/Macscope.zip" sparkle:version="202508101043" sparkle:shortVersionString="1.24.0" length="1792523" type="application/octet-stream" sparkle:edSignature="fqmd/eoTO/sago8aEa1h6XegFj+tV0onJL4GLcKJgRejQUHB2uEX8t2xuLD3YeJ8panM1f3NkcTyggweTtDICA==" /></item><item><title>Version v1.23.0</title><description>
     &lt;!DOCTYPE html&gt;
     &lt;html&gt;
     &lt;head&gt;
