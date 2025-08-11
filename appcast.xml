@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <item><title>Version v1.25.0</title><description><![CDATA[
+    <item><title>Version v1.26.0</title><description><![CDATA[
     <!DOCTYPE html>
     <html>
     <head>
@@ -16,20 +16,45 @@
     <body>
         <h3>Features</h3>
 <ul>
-    <li>add mouse focus</li>
+    <li>add labs indicator</li>
+    <li>add permissions requests screen</li>
 </ul>
 <h3>Bug Fixes</h3>
 <ul>
-    <li>focus in multi displays</li>
-    <li>search focus</li>
-    <li>search focus</li>
-    <li>selection ui</li>
-    <li>selection ui</li>
-    <li>video preview</li>
+    <li>settings show bug</li>
+    <li>sync open apps</li>
 </ul>
     </body>
     </html>
-]]></description><pubDate>Mon, 11 Aug 2025 07:26:11 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.25.0/Macscope.zip" sparkle:version="202508102226" sparkle:shortVersionString="1.25.0" length="1795684" type="application/octet-stream" sparkle:edSignature="E8N/+00nz5/hD6QvCUBR9k3KK8fhTB+anw6/2zMcorTFSgnpvc9V9Ol+uMDAt9I5+0xN4qHcUHexwPywc/wgDg==" /></item><item><title>Version v1.24.0</title><description>
+]]></description><pubDate>Mon, 11 Aug 2025 15:31:08 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.26.0/Macscope.zip" sparkle:version="202508111527" sparkle:shortVersionString="1.26.0" length="1810902" type="application/octet-stream" sparkle:edSignature="tJArvuIvfjmwqd0E9wa2oCw44Zv6vh1XdQquH92b+BFVAtuJ8He+RnlXZwNXTaJOJHvshdWJChf4KlMsJ4m7Dg==" /></item><item><title>Version v1.25.0</title><description>
+    &lt;!DOCTYPE html&gt;
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset="utf-8"&gt;
+        &lt;style&gt;
+            body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; padding: 0 1em; line-height: 1.4; }
+            h3 { margin-top: 1.5em; margin-bottom: 0.5em; }
+            ul { margin: 0; padding-left: 1.2em; }
+            li { margin-bottom: 0.4em; }
+        &lt;/style&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;add mouse focus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;focus in multi displays&lt;/li&gt;
+    &lt;li&gt;search focus&lt;/li&gt;
+    &lt;li&gt;search focus&lt;/li&gt;
+    &lt;li&gt;selection ui&lt;/li&gt;
+    &lt;li&gt;selection ui&lt;/li&gt;
+    &lt;li&gt;video preview&lt;/li&gt;
+&lt;/ul&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;
+</description><pubDate>Mon, 11 Aug 2025 07:26:11 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.25.0/Macscope.zip" sparkle:version="202508102226" sparkle:shortVersionString="1.25.0" length="1795684" type="application/octet-stream" sparkle:edSignature="E8N/+00nz5/hD6QvCUBR9k3KK8fhTB+anw6/2zMcorTFSgnpvc9V9Ol+uMDAt9I5+0xN4qHcUHexwPywc/wgDg==" /></item><item><title>Version v1.24.0</title><description>
     &lt;!DOCTYPE html&gt;
     &lt;html&gt;
     &lt;head&gt;
