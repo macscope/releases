@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <item><title>Version v1.27.0</title><description><![CDATA[
+    <item><title>Version v1.28.0</title><description><![CDATA[
     <!DOCTYPE html>
     <html>
     <head>
@@ -16,16 +16,56 @@
     <body>
         <h3>Features</h3>
 <ul>
-    <li>ui improvements on multi screen</li>
+    <li>add close item</li>
+    <li>add lemonsquezzy licensing</li>
+    <li>add lemonsquezzy licensing</li>
+    <li>add licensing</li>
+    <li>add move single instance with alt+tab</li>
+    <li>add move single instance with alt+tab</li>
+    <li>add timebased license</li>
+    <li>hide permission on startup if fail</li>
+    <li>trigger also close the app</li>
 </ul>
 <h3>Bug Fixes</h3>
 <ul>
-    <li>sandbox</li>
-    <li>window position on open</li>
+    <li>arrow navitation</li>
+    <li>background recording</li>
+    <li>lock shortcut</li>
+    <li>more a try to fix the background recording leaking</li>
+    <li>more a try to fix the background recording leaking</li>
+    <li>open at login</li>
+    <li>open at login</li>
+    <li>remove setting on fullscreen mode</li>
+    <li>settings menu lunch</li>
+    <li>tilt in the window mover</li>
 </ul>
     </body>
     </html>
-]]></description><pubDate>Wed, 13 Aug 2025 08:09:07 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.27.0/Macscope.zip" sparkle:version="202508130807" sparkle:shortVersionString="1.27.0" length="1847550" type="application/octet-stream" sparkle:edSignature="aM0w3+H+mfL3FOCEX7XrFlZ1dn0uA64S0kDbKdxZNmLWsjqgXQ/tCdW73zAA8LLue5WZS+wIeuETsLpBH7cFDg==" /></item><item><title>Version v1.26.0</title><description>
+]]></description><pubDate>Wed, 20 Aug 2025 17:04:54 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.28.0/Macscope.zip" sparkle:version="202508201658" sparkle:shortVersionString="1.28.0" length="1963871" type="application/octet-stream" sparkle:edSignature="kFXSXfQSREk+pD7RTd7Maiw4vCgEroOTCu0EXFdpmwaW05RCpOVxLlfHVRvU8ODgZA/XKtEFbK1yhLKMCOC5Aw==" /></item><item><title>Version v1.27.0</title><description>
+    &lt;!DOCTYPE html&gt;
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset="utf-8"&gt;
+        &lt;style&gt;
+            body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; padding: 0 1em; line-height: 1.4; }
+            h3 { margin-top: 1.5em; margin-bottom: 0.5em; }
+            ul { margin: 0; padding-left: 1.2em; }
+            li { margin-bottom: 0.4em; }
+        &lt;/style&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;ui improvements on multi screen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;sandbox&lt;/li&gt;
+    &lt;li&gt;window position on open&lt;/li&gt;
+&lt;/ul&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;
+</description><pubDate>Wed, 13 Aug 2025 08:09:07 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.27.0/Macscope.zip" sparkle:version="202508130807" sparkle:shortVersionString="1.27.0" length="1847550" type="application/octet-stream" sparkle:edSignature="aM0w3+H+mfL3FOCEX7XrFlZ1dn0uA64S0kDbKdxZNmLWsjqgXQ/tCdW73zAA8LLue5WZS+wIeuETsLpBH7cFDg==" /></item><item><title>Version v1.26.0</title><description>
     &lt;!DOCTYPE html&gt;
     &lt;html&gt;
     &lt;head&gt;
