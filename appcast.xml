@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <item><title>Version v1.30.0</title><description><![CDATA[
+    <item><title>Version v1.30.1</title><description><![CDATA[
     <!DOCTYPE html>
     <html>
     <head>
@@ -14,36 +14,55 @@
         </style>
     </head>
     <body>
-        <h3>Features</h3>
+        <h3>Bug Fixes</h3>
 <ul>
-    <li>add animation on transition</li>
-    <li>add command+enter for select maximized</li>
-    <li>add mini preview on the create group</li>
-    <li>add optional blur on fullscreen</li>
-    <li>add quick select</li>
-    <li>add scopes and window manager</li>
-    <li>delete itens with cmd + backspace</li>
-    <li>improved trigger shortcut. Now it&#x27;s possible to use command + tab</li>
-    <li>open tabs in a window</li>
-    <li>option to hide previews</li>
-</ul>
-<h3>Bug Fixes</h3>
-<ul>
-    <li>add update button in the about</li>
-    <li>adjust size in the create group mode</li>
-    <li>adjustments on the group view</li>
-    <li>icon disappearing from header menu</li>
-    <li>improved browser tabs icons</li>
-    <li>quick switch</li>
-    <li>removed pagination</li>
-    <li>removed some animations</li>
-    <li>selection after leave group creation</li>
-    <li>separete trigger</li>
-    <li>window moving</li>
+    <li>permission screen</li>
 </ul>
     </body>
     </html>
-]]></description><pubDate>Sun, 07 Sep 2025 10:54:53 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.30.0/Macscope.zip" sparkle:version="202509071038" sparkle:shortVersionString="1.30.0" length="2226513" type="application/octet-stream" sparkle:edSignature="iKPolzaWJCmsytuPSXbdpzoMjOpKHkHP5VnNdU+K4ZOOHYxN9ETEnVGBM7YGjeoRWu36nw5m1PfWCtbpqmbHCQ==" /></item><item><title>Version v1.29.1</title><description>
+]]></description><pubDate>Sun, 07 Sep 2025 18:57:59 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.30.1/Macscope.zip" sparkle:version="202509071855" sparkle:shortVersionString="1.30.1" length="2233340" type="application/octet-stream" sparkle:edSignature="ohcM9gVCz9UzxsWSdT3trASxPDmVuK1p1IB2YRLlJFJxndZ2e1iLI9EOBqviGInOQy/5nWJFBeIkA1zQxi7OAA==" /></item><item><title>Version v1.30.0</title><description>
+    &lt;!DOCTYPE html&gt;
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset="utf-8"&gt;
+        &lt;style&gt;
+            body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; padding: 0 1em; line-height: 1.4; }
+            h3 { margin-top: 1.5em; margin-bottom: 0.5em; }
+            ul { margin: 0; padding-left: 1.2em; }
+            li { margin-bottom: 0.4em; }
+        &lt;/style&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;add animation on transition&lt;/li&gt;
+    &lt;li&gt;add command+enter for select maximized&lt;/li&gt;
+    &lt;li&gt;add mini preview on the create group&lt;/li&gt;
+    &lt;li&gt;add optional blur on fullscreen&lt;/li&gt;
+    &lt;li&gt;add quick select&lt;/li&gt;
+    &lt;li&gt;add scopes and window manager&lt;/li&gt;
+    &lt;li&gt;delete itens with cmd + backspace&lt;/li&gt;
+    &lt;li&gt;improved trigger shortcut. Now it&amp;#x27;s possible to use command + tab&lt;/li&gt;
+    &lt;li&gt;open tabs in a window&lt;/li&gt;
+    &lt;li&gt;option to hide previews&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;add update button in the about&lt;/li&gt;
+    &lt;li&gt;adjust size in the create group mode&lt;/li&gt;
+    &lt;li&gt;adjustments on the group view&lt;/li&gt;
+    &lt;li&gt;icon disappearing from header menu&lt;/li&gt;
+    &lt;li&gt;improved browser tabs icons&lt;/li&gt;
+    &lt;li&gt;quick switch&lt;/li&gt;
+    &lt;li&gt;removed pagination&lt;/li&gt;
+    &lt;li&gt;removed some animations&lt;/li&gt;
+    &lt;li&gt;selection after leave group creation&lt;/li&gt;
+    &lt;li&gt;separete trigger&lt;/li&gt;
+    &lt;li&gt;window moving&lt;/li&gt;
+&lt;/ul&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;
+</description><pubDate>Sun, 07 Sep 2025 10:54:53 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.30.0/Macscope.zip" sparkle:version="202509071038" sparkle:shortVersionString="1.30.0" length="2226513" type="application/octet-stream" sparkle:edSignature="iKPolzaWJCmsytuPSXbdpzoMjOpKHkHP5VnNdU+K4ZOOHYxN9ETEnVGBM7YGjeoRWu36nw5m1PfWCtbpqmbHCQ==" /></item><item><title>Version v1.29.1</title><description>
     &lt;!DOCTYPE html&gt;
     &lt;html&gt;
     &lt;head&gt;
