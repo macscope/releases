@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <item><title>Version v1.29.1</title><description><![CDATA[
+    <item><title>Version v1.30.0</title><description><![CDATA[
     <!DOCTYPE html>
     <html>
     <head>
@@ -14,14 +14,56 @@
         </style>
     </head>
     <body>
-        <h3>Bug Fixes</h3>
+        <h3>Features</h3>
 <ul>
-    <li>mouse interference on keyboard navigation</li>
-    <li>stuck trigger</li>
+    <li>add animation on transition</li>
+    <li>add command+enter for select maximized</li>
+    <li>add mini preview on the create group</li>
+    <li>add optional blur on fullscreen</li>
+    <li>add quick select</li>
+    <li>add scopes and window manager</li>
+    <li>delete itens with cmd + backspace</li>
+    <li>improved trigger shortcut. Now it&#x27;s possible to use command + tab</li>
+    <li>open tabs in a window</li>
+    <li>option to hide previews</li>
+</ul>
+<h3>Bug Fixes</h3>
+<ul>
+    <li>add update button in the about</li>
+    <li>adjust size in the create group mode</li>
+    <li>adjustments on the group view</li>
+    <li>icon disappearing from header menu</li>
+    <li>improved browser tabs icons</li>
+    <li>quick switch</li>
+    <li>removed pagination</li>
+    <li>removed some animations</li>
+    <li>selection after leave group creation</li>
+    <li>separete trigger</li>
+    <li>window moving</li>
 </ul>
     </body>
     </html>
-]]></description><pubDate>Mon, 25 Aug 2025 13:21:12 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.29.1/Macscope.zip" sparkle:version="202508251314" sparkle:shortVersionString="1.29.1" length="2041002" type="application/octet-stream" sparkle:edSignature="Z/xu/ZpI/LcVce5bxnTidtBIp0rXR+5WuykiSvKEhQ0c7krNvc3IIlE7B7CpyZxLiYnc15oA2kBOTXN2hRA3Cg==" /></item><item><title>Version v1.29.0</title><description>
+]]></description><pubDate>Sun, 07 Sep 2025 10:54:53 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.30.0/Macscope.zip" sparkle:version="202509071038" sparkle:shortVersionString="1.30.0" length="2226513" type="application/octet-stream" sparkle:edSignature="iKPolzaWJCmsytuPSXbdpzoMjOpKHkHP5VnNdU+K4ZOOHYxN9ETEnVGBM7YGjeoRWu36nw5m1PfWCtbpqmbHCQ==" /></item><item><title>Version v1.29.1</title><description>
+    &lt;!DOCTYPE html&gt;
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset="utf-8"&gt;
+        &lt;style&gt;
+            body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; padding: 0 1em; line-height: 1.4; }
+            h3 { margin-top: 1.5em; margin-bottom: 0.5em; }
+            ul { margin: 0; padding-left: 1.2em; }
+            li { margin-bottom: 0.4em; }
+        &lt;/style&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;mouse interference on keyboard navigation&lt;/li&gt;
+    &lt;li&gt;stuck trigger&lt;/li&gt;
+&lt;/ul&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;
+</description><pubDate>Mon, 25 Aug 2025 13:21:12 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.29.1/Macscope.zip" sparkle:version="202508251314" sparkle:shortVersionString="1.29.1" length="2041002" type="application/octet-stream" sparkle:edSignature="Z/xu/ZpI/LcVce5bxnTidtBIp0rXR+5WuykiSvKEhQ0c7krNvc3IIlE7B7CpyZxLiYnc15oA2kBOTXN2hRA3Cg==" /></item><item><title>Version v1.29.0</title><description>
     &lt;!DOCTYPE html&gt;
     &lt;html&gt;
     &lt;head&gt;
