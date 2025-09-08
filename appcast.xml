@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <item><title>Version v1.30.2</title><description><![CDATA[
+    <item><title>Version v1.30.3</title><description><![CDATA[
     <!DOCTYPE html>
     <html>
     <head>
@@ -16,11 +16,31 @@
     <body>
         <h3>Bug Fixes</h3>
 <ul>
-    <li>permissions input</li>
+    <li>finder windows not being listed</li>
+    <li>some perfomances issues</li>
 </ul>
     </body>
     </html>
-]]></description><pubDate>Sun, 07 Sep 2025 21:45:38 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.30.2/Macscope.zip" sparkle:version="202509072143" sparkle:shortVersionString="1.30.2" length="2235684" type="application/octet-stream" sparkle:edSignature="hGRgAkFdNT13/ZHqtRAijLZ249IVqaeymG3nypYrv0ddq5wJuJrm2YRpDwKZOy7kq7blY/03TOVDOrybSOuHBg==" /></item><item><title>Version v1.30.1</title><description>
+]]></description><pubDate>Mon, 08 Sep 2025 12:56:19 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.30.3/Macscope.zip" sparkle:version="202509081249" sparkle:shortVersionString="1.30.3" length="2235757" type="application/octet-stream" sparkle:edSignature="AZXHNSvE9ukFd5Z7MrYPoMkrvkNyDaHq1Uqa+9cq6V3eXcTHZ+7oYUD8jixILhCMB9lly6eJTfeci69h1H/PDQ==" /></item><item><title>Version v1.30.2</title><description>
+    &lt;!DOCTYPE html&gt;
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset="utf-8"&gt;
+        &lt;style&gt;
+            body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; padding: 0 1em; line-height: 1.4; }
+            h3 { margin-top: 1.5em; margin-bottom: 0.5em; }
+            ul { margin: 0; padding-left: 1.2em; }
+            li { margin-bottom: 0.4em; }
+        &lt;/style&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;permissions input&lt;/li&gt;
+&lt;/ul&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;
+</description><pubDate>Sun, 07 Sep 2025 21:45:38 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.30.2/Macscope.zip" sparkle:version="202509072143" sparkle:shortVersionString="1.30.2" length="2235684" type="application/octet-stream" sparkle:edSignature="hGRgAkFdNT13/ZHqtRAijLZ249IVqaeymG3nypYrv0ddq5wJuJrm2YRpDwKZOy7kq7blY/03TOVDOrybSOuHBg==" /></item><item><title>Version v1.30.1</title><description>
     &lt;!DOCTYPE html&gt;
     &lt;html&gt;
     &lt;head&gt;
