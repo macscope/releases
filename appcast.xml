@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <item><title>Version v1.30.4</title><description><![CDATA[
+    <item><title>Version v1.31.0</title><description><![CDATA[
     <!DOCTYPE html>
     <html>
     <head>
@@ -14,14 +14,43 @@
         </style>
     </head>
     <body>
-        <h3>Bug Fixes</h3>
+        <h3>Features</h3>
 <ul>
-    <li>align quick switch and trigger with native cmd-tab behavior</li>
-    <li>perfomance issues</li>
+    <li>add grouped mode view</li>
+    <li>add hyperkey as option for the holding key</li>
+    <li>add translations</li>
+    <li>add translations</li>
+    <li>add vivaldi support</li>
+    <li>add wavebox support</li>
+</ul>
+<h3>Bug Fixes</h3>
+<ul>
+    <li>Intel chips now run Macscope</li>
+    <li>performance issues</li>
 </ul>
     </body>
     </html>
-]]></description><pubDate>Thu, 11 Sep 2025 13:46:09 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.30.4/Macscope.zip" sparkle:version="202509111342" sparkle:shortVersionString="1.30.4" length="2251793" type="application/octet-stream" sparkle:edSignature="DGnQ327CO25My/JJzjByTLsdRd9w1i7I+HLuT5wsg53JOMuAWz+IXSxVbL22N+5puJBZR9G4X62Or5DaOJlvDA==" /></item><item><title>Version v1.30.3</title><description>
+]]></description><pubDate>Sat, 13 Sep 2025 11:55:08 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.31.0/Macscope.zip" sparkle:version="202509131149" sparkle:shortVersionString="1.31.0" length="2407106" type="application/octet-stream" sparkle:edSignature="6aH2xueJkM4OfwlIY6P4dHTFZKPTJR0akImJh5Q9H8EESNhzeAZzVRH5i8+Rn0xChWbGKRC1Rnfv2j8QR8qpCg==" /></item><item><title>Version v1.30.4</title><description>
+    &lt;!DOCTYPE html&gt;
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset="utf-8"&gt;
+        &lt;style&gt;
+            body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; padding: 0 1em; line-height: 1.4; }
+            h3 { margin-top: 1.5em; margin-bottom: 0.5em; }
+            ul { margin: 0; padding-left: 1.2em; }
+            li { margin-bottom: 0.4em; }
+        &lt;/style&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;align quick switch and trigger with native cmd-tab behavior&lt;/li&gt;
+    &lt;li&gt;perfomance issues&lt;/li&gt;
+&lt;/ul&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;
+</description><pubDate>Thu, 11 Sep 2025 13:46:09 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.30.4/Macscope.zip" sparkle:version="202509111342" sparkle:shortVersionString="1.30.4" length="2251793" type="application/octet-stream" sparkle:edSignature="DGnQ327CO25My/JJzjByTLsdRd9w1i7I+HLuT5wsg53JOMuAWz+IXSxVbL22N+5puJBZR9G4X62Or5DaOJlvDA==" /></item><item><title>Version v1.30.3</title><description>
     &lt;!DOCTYPE html&gt;
     &lt;html&gt;
     &lt;head&gt;
