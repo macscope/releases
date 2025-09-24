@@ -1,26 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <item><title>Version v1.32.2</title><description><![CDATA[
-        <!DOCTYPE html>
-        <html>
-        <head>
-            <meta charset="utf-8">
-            <style>
+    <item><title>Version v1.33.0</title><description><![CDATA[
+                <!DOCTYPE html>
+                <html>
+                <head>
+                    <meta charset="utf-8">
+                    <style>
+                        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; padding: 0 1em; line-height: 1.4; }
+                        h3 { margin-top: 1.5em; margin-bottom: 0.5em; }
+                        ul { margin: 0; padding-left: 1.2em; }
+                        li { margin-bottom: 0.4em; }
+                    </style>
+                </head>
+                <body>
+                    <p>This update includes general improvements and bug fixes.</p>
+                </body>
+                </html>
+]]></description><pubDate>Wed, 24 Sep 2025 12:53:30 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.33.0/Macscope.zip" sparkle:version="202509200804" sparkle:shortVersionString="1.33.0" length="4353256" type="application/octet-stream" sparkle:edSignature="YNRlhoZ8AxdZOJD/jzKWdTweh/JF2meFql6SjbUCJZCtAM3yOmB2a7DAx0XFqqC/bOgwY9P/ajuEnkfFpXR+AA==" /></item><item><title>Version v1.32.2</title><description>
+        &lt;!DOCTYPE html&gt;
+        &lt;html&gt;
+        &lt;head&gt;
+            &lt;meta charset="utf-8"&gt;
+            &lt;style&gt;
                 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; padding: 0 1em; line-height: 1.4; }
                 h3 { margin-top: 1.5em; margin-bottom: 0.5em; }
                 ul { margin: 0; padding-left: 1.2em; }
                 li { margin-bottom: 0.4em; }
-            </style>
-        </head>
-        <body>
-            <h3>Bug Fixes</h3>
-<ul>
-    <li>performance issues</li>
-</ul>
-        </body>
-        </html>
-]]></description><pubDate>Tue, 16 Sep 2025 16:08:47 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.32.2/Macscope.zip" sparkle:version="202509161558" sparkle:shortVersionString="1.32.2" length="3270938" type="application/octet-stream" sparkle:edSignature="2EUMB8D0adYrjVHmuP8/Gicp+PFqEdTd2sTLUvEs96FX+9ljSPjVDU9J9vGbX4xMswFIMLEq+PtU+OrO63N3CA==" /></item><item><title>Version v1.32.1</title><description>
+            &lt;/style&gt;
+        &lt;/head&gt;
+        &lt;body&gt;
+            &lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;performance issues&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+</description><pubDate>Tue, 16 Sep 2025 16:08:47 +0000</pubDate><enclosure url="https://github.com/macscope/releases/releases/download/v1.32.2/Macscope.zip" sparkle:version="202509161558" sparkle:shortVersionString="1.32.2" length="3270938" type="application/octet-stream" sparkle:edSignature="2EUMB8D0adYrjVHmuP8/Gicp+PFqEdTd2sTLUvEs96FX+9ljSPjVDU9J9vGbX4xMswFIMLEq+PtU+OrO63N3CA==" /></item><item><title>Version v1.32.1</title><description>
         &lt;!DOCTYPE html&gt;
         &lt;html&gt;
         &lt;head&gt;
